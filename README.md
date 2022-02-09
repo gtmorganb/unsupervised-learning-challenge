@@ -1,1 +1,1 @@
-# unsupervised-learning-challenge
+Based on the K-Cluster, I would not recommend clustering cryptocurrency. The clusters are incredible close together; maybe using more clusters would be more successful. 
